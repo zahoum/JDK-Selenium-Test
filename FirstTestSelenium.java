@@ -14,6 +14,7 @@ public class FirstTest{
 
         //show the title of page to check if it's every things good 
         System.out.println('page Title is :'+driver.getTitle());
+        
 
         //close the brouwser with finishing \
         driver.quit();
